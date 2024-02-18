@@ -21,7 +21,7 @@
     <ClCompile Include="FloatError.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="BitAndOperatioin.c">
+    <ClCompile Include="BitAndOperation.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="BitLeftShift.c">
