@@ -8,4 +8,4 @@ int main(void)
 	scanf("%d", &num);
 	printf("10진수 -> 16진수 정수 %#x \n", num);
 	return 0;
-}
+} 

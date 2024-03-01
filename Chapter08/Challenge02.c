@@ -25,4 +25,4 @@ int main(void)
 	}
 	Gugudan(startDan, endDan);
 	return 0;
-}
+} 

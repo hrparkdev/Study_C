@@ -16,4 +16,4 @@ int main(void)
 	second = (input % 3600) % 60;
 	printf("%d초 -> %d시간 %d분 %d초", input, hour, minute, second);
 	return 0;
-}
+} 

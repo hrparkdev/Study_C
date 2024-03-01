@@ -17,4 +17,4 @@ int main(void)
 	}
 	printf("%d와 %d의 최대공약수: %d", num1, num2, gcd);
 	return 0;
-}
+} 

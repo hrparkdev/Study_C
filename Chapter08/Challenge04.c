@@ -27,4 +27,4 @@ int main(void)
 
 	printf("어떻게 구입하시겠습니까?");
 	return 0;
-}
+} 
