@@ -22,4 +22,5 @@ int main(void)
 	result = Recursive(num);
 	printf("2의 %d승은 %d", num, result);
 	return 0;
+
 } 
